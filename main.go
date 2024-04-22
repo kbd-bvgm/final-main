@@ -14,7 +14,7 @@ const (
 	ParcelStatusDelivered  = "delivered"
 )
 
-// Комментарий для изменения
+
 
 type Parcel struct {
 	Number    int
