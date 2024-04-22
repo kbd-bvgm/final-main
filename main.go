@@ -14,6 +14,8 @@ const (
 	ParcelStatusDelivered  = "delivered"
 )
 
+
+
 type Parcel struct {
 	Number    int
 	Client    int
